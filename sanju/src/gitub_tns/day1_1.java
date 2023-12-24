@@ -15,7 +15,7 @@ public class day1_1 {
 		System.out.println(var1);
 
 		// Unicode representation
-		char var2 = '\u20AC';
+		char var2 = '\u20BC';
 		System.out.println(var2);
 
 		// ASCI code representation
