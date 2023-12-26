@@ -1,6 +1,6 @@
-package gitub_tns;
+package Day1;
 
-public class day1_1 {
+public class Char {
 
 	public static void main(String[] args) {
 		char ch = 'a';
